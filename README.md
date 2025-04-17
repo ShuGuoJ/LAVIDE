@@ -12,6 +12,11 @@ Authors: Shuguo Jiang, Fang Xu, Sen Jia, and Gui-Song Xia.
 > <img width="1000" src="figs/overall_of_LaVIDE.png">
 > </p>
 
+## Visualization of Change Detection Results
+
+<p align="center">
+<img width="1000" src="figs/dynamic_earth_net_comparison_20250415_4.pdf">
+</p>
 
 ## Environment:
 
