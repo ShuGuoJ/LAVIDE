@@ -13,12 +13,27 @@ Authors: Shuguo Jiang, Fang Xu, Sen Jia, and Gui-Song Xia.
 > </p>
 
 ## Visualization of Change Detection Results
+### On DynamicEarthNet
+> <p align="center">
+> <img width="1000" src="figs/dynamic_earth_net.png">
+> </p>
 
-<p align="center">
-<img width="1000" src="figs/dynamic_earth_net_comparison_20250415_4.pdf">
-</p>
+### On HRSCD
+> <p align="center">
+> <img width="1000" src="figs/hrscd.png">
+> </p>
 
-## Environment:
+### On BANDON
+> <p align="center">
+> <img width="1000" src="figs/bandon.png">
+> </p>
+
+### On SECOND
+> <p align="center">
+> <img width="1000" src="figs/second.png">
+> </p>
+
+<!--## Environment:
 
 Option 1:
 
@@ -120,4 +135,4 @@ If you find this project useful, please consider citing:
   journal={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year={2023}
 }
-```
+```-->
