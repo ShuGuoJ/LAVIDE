@@ -3,7 +3,7 @@
 
 <!-- <a href="https://arxiv.org/abs/2602.01296"><img src="https://img.shields.io/badge/ArXiv-2602.01296-brightgreen"></a>&ensp;<a href="https://calmke.github.io/LiPMAP/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Github&color=blue&logo=github-pages"></a> -->
 
-[Shuguo Jiang]()<sup>1</sup>,[Fang Xu]()<sup>2</sup>,[Chuandong Liu]()<sup>1</sup>,[Hong Tan]()<sup>3,4</sup>,[Shengyang Li]()<sup>3,4</sup>,[Lei Yu]()<sup>2</sup>,[Wen Yang]()<sup>5</sup>,[Sen Jia]()<sup>6</sup>,[Gui-Song Xia]()<sup>2</sup>
+Shuguo Jiang<sup>1</sup>,Fang Xu<sup>2</sup>,Chuandong Liu<sup>1</sup>,Hong Tan<sup>3,4</sup>,Shengyang Li<sup>3,4</sup>,Lei Yu<sup>2</sup>,Wen Yang<sup>5</sup>,Sen Jia<sup>6</sup>,Gui-Song Xia<sup>2</sup>
 
 <sup>1</sup>School of Computer Science, Wuhan University &ensp;&ensp;<sup>2</sup>School of Artificial Intelligence, Wuhan University &ensp;&ensp; <sup>3</sup>Technology and Engineering Center for Space Utilization, Chinese Academy of Science &ensp;&ensp; <sup>4</sup>Key Laboratory of Space Utilization, Chinese Academy of Science &ensp;&ensp; <sup>5</sup>School of Electronic Information, Wuhan University &ensp;&ensp; <sup>6</sup>College of Computer Science and Software Engineering, Shenzhen University
 
@@ -63,6 +63,6 @@ python tools/test.py configs/cross_modal_bcd/dynamicearthnet/lavide.yaml --check
 
 
 ## 🙏 Acknowledgements
-LiPMAP is built on the top of several outstanding open-source projects. We are extremely grateful for the contributions of these projects and their communities, whose hard work has greatly propelled the development of the field and enabled our work to be realized.
+LaVIDE is built on the top of several outstanding open-source projects. We are extremely grateful for the contributions of these projects and their communities, whose hard work has greatly propelled the development of the field and enabled our work to be realized.
 - [Mapformer](https://github.com/mxbh/mapformer)
 - [MMSegmentation](https://github.com/open-mmlab/mmsegmentation)
